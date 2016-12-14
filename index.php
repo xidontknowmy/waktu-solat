@@ -1,10 +1,7 @@
 <title>Waktu Solat Malaysia</title>
-<link rel="stylesheet" href="resources/css/seocss.css" />
-        <link rel="stylesheet" href="resources/css/default.css" />
-        <link rel="stylesheet" href="resources/css/responsive.css" />
-        <link rel="stylesheet" href="resources/css/toastr.min.css" />    
-        <link rel="stylesheet" href="resources/css/jquery-ui.min.css" />
-		
+<link rel="stylesheet" href="http://mohdzulhaziq.my/waktusolat/resources/css/seocss.css" />
+        <link rel="stylesheet" href="http://mohdzulhaziq.my/waktusolat/resources/css/default.css" />
+      
 <header class="header">
             <div class="header-logo-container">
                 
@@ -98,179 +95,179 @@ if(isset($_POST['zon'])){
     $zon = $_POST['zon'];
     switch ($zon) {
 case 'KDH01':
-            echo file_get_contents("http://localhost/zon/KDH01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KDH01.php");
             break;
 case 'KDH02':
-            echo file_get_contents("http://localhost/zon/KDH02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KDH02.php");
             break;
 case 'KDH03':
-            echo file_get_contents("http://localhost/zon/KDH03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KDH03.php");
             break;
 case 'KDH04':
-            echo file_get_contents("http://localhost/zon/KDH04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KDH04.php");
             break;
 case 'KDH05':
-            echo file_get_contents("http://localhost/zon/KDH05.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KDH05.php");
             break;
 case 'KDH06':
-            echo file_get_contents("http://localhost/zon/KDH06.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KDH06.php");
             break;
 case 'KDH07':
-            echo file_get_contents("http://localhost/zon/KDH07.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KDH07.php");
             break;
 case 'PNG01':
-            echo file_get_contents("http://localhost/zon/PNG01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PNG01.php");
             break;
 case 'PRK01':
-            echo file_get_contents("http://localhost/zon/PRK01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PRK01.php");
             break;
 case 'PRK02':
-            echo file_get_contents("http://localhost/zon/PRK02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PRK02.php");
             break;
 case 'PRK03':
-            echo file_get_contents("http://localhost/zon/PRK03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PRK03.php");
             break;
 case 'PRK04':
-            echo file_get_contents("http://localhost/zon/PRK04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PRK04.php");
             break;
 case 'PRK05':
-            echo file_get_contents("http://localhost/zon/PRK05.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PRK05.php");
             break;
 case 'PRK06':
-            echo file_get_contents("http://localhost/zon/PRK06.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PRK06.php");
             break;
 case 'PRK07':
-            echo file_get_contents("http://localhost/zon/PRK07.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PRK07.php");
             break;
 case 'SGR01':
-            echo file_get_contents("http://localhost/zon/SGR01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SGR01.php");
             break;
 case 'SGR02':
-            echo file_get_contents("http://localhost/zon/SGR02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SGR02.php");
             break;
 case 'SGR03':
-            echo file_get_contents("http://localhost/zon/SGR03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SGR03.php");
             break;
 case 'SGR04':
-            echo file_get_contents("http://localhost/zon/SGR04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SGR04.php");
             break;
 case 'WLY02':
-            echo file_get_contents("http://localhost/zon/WLY2.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/WLY2.php");
             break;
 case 'NGS01':
-            echo file_get_contents("http://localhost/zon/NGS01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/NGS01.php");
             break;
 case 'NGS02':
-            echo file_get_contents("http://localhost/zon/NGS02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/NGS02.php");
             break;
 case 'MLK01':
-            echo file_get_contents("http://localhost/zon/MLK01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/MLK01.php");
             break;
 case 'JHR01':
-            echo file_get_contents("http://localhost/zon/JHR01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/JHR01.php");
             break;
 case 'JHR02':
-            echo file_get_contents("http://localhost/zon/JHR02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/JHR02.php");
             break;
 case 'JHR03':
-            echo file_get_contents("http://localhost/zon/JHR03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/JHR03.php");
             break;
 case 'JHR04':
-            echo file_get_contents("http://localhost/zon/JHR04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/JHR04.php");
             break;
 case 'PLS01':
-            echo file_get_contents("http://localhost/zon/PLS01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PLS01.php");
             break;
 case 'PHG01':
-            echo file_get_contents("http://localhost/zon/PHG01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PHG01.php");
             break;
 case 'PHG02':
-            echo file_get_contents("http://localhost/zon/PHG02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PHG02.php");
             break;
 case 'PHG03':
-            echo file_get_contents("http://localhost/zon/PHG03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PHG03.php");
             break;
 case 'PHG04':
-            echo file_get_contents("http://localhost/zon/PHG04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PHG04.php");
             break;
 case 'PHG05':
-            echo file_get_contents("http://localhost/zon/PHG05.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PHG05.php");
             break;
 case 'PHG06':
-            echo file_get_contents("http://localhost/zon/PHG06.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/PHG06.php");
             break;
 case 'KTN01':
-            echo file_get_contents("http://localhost/zon/KTN01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KTN01.php");
             break;
 case 'KTN02':
-            echo file_get_contents("http://localhost/zon/KTN02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/KTN02.php");
             break;
 case 'TRG01':
-            echo file_get_contents("http://localhost/zon/TRG01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/TRG01.php");
             break;
 case 'TRG02':
-            echo file_get_contents("http://localhost/zon/TRG02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/TRG02.php");
             break;
 case 'TRG03':
-            echo file_get_contents("http://localhost/zon/TRG03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/TRG03.php");
             break;
 case 'TRG04':
-            echo file_get_contents("http://localhost/zon/TRG04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/TRG04.php");
             break;
 case 'SBH01':
-            echo file_get_contents("http://localhost/zon/SBH01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH01.php");
             break;
 case 'SBH02':
-            echo file_get_contents("http://localhost/zon/SBH02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH02.php");
             break;
 case 'SBH03':
-            echo file_get_contents("http://localhost/zon/SBH03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH03.php");
             break;
 case 'SBH04':
-            echo file_get_contents("http://localhost/zon/SBH04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH04.php");
             break;
 case 'SBH05':
-            echo file_get_contents("http://localhost/zon/SBH05.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH05.php");
             break;
 case 'SBH06':
-            echo file_get_contents("http://localhost/zon/SBH06.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH06.php");
             break;
 case 'SBH07':
-            echo file_get_contents("http://localhost/zon/SBH07.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH07.php");
             break;
 case 'SBH08':
-            echo file_get_contents("http://localhost/zon/SBH08.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH08.php");
             break;
 case 'SBH09':
-            echo file_get_contents("http://localhost/zon/SBH09.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SBH09.php");
             break;
 				
 case 'SWK01':
-            echo file_get_contents("http://localhost/zon/SWK01.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK01.php");
             break;
 case 'SWK02':
-            echo file_get_contents("http://localhost/zon/SWK02.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK02.php");
             break;
 case 'SWK03':
-            echo file_get_contents("http://localhost/zon/SWK03.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK03.php");
             break;
 case 'SWK04':
-            echo file_get_contents("http://localhost/zon/SWK04.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK04.php");
             break;
 case 'SWK05':
-            echo file_get_contents("http://localhost/zon/SWK05.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK05.php");
             break;
 case 'SWK06':
-            echo file_get_contents("http://localhost/zon/SWK06.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK06.php");
             break;
 case 'SWK07':
-            echo file_get_contents("http://localhost/zon/SWK07.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK07.php");
             break;
 case 'SWK08':
-            echo file_get_contents("http://localhost/zon/SWK08.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK08.php");
             break;
 case 'SWK09':
-            echo file_get_contents("http://localhost/zon/SWK09.php");
+            echo file_get_contents("http://mohdzulhaziq.my/waktusolat/zon/SWK09.php");
             break;
 
      
