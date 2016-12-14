@@ -15,3 +15,8 @@ Facebook: www.facebook.com/xidontknow
  #Demo
  
  http://mohdzulhaziq.my/waktusolat/
+
+
+#Error
+
+Ada certain zon yang tak dapat keluarkan result, di atas problem API
