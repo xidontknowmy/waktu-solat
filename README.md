@@ -12,12 +12,14 @@ Facebook: www.facebook.com/xidontknow
 	Twitter: https://twitter.com/xidontknowmy
 	Website: http://www.mohdzulhaziq.my 
  
+# Penghargaan
 
+1. JomGeek API : http://api.jomgeek.com/
 
 # Error
 
 Ada certain zon yang tak dapat keluarkan result, di atas problem API
 
- # Demo
+# Demo
  
  http://mohdzulhaziq.my/waktusolat/
