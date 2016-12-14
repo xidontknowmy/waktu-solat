@@ -9,8 +9,10 @@ Menunjukkan Waktu Solat Di Malaysia
 # Hubungi
 
 Facebook: www.facebook.com/xidontknow
-	Twitter: https://twitter.com/xidontknowmy
-	Website: http://www.mohdzulhaziq.my 
+
+Twitter: https://twitter.com/xidontknowmy
+
+Website: http://www.mohdzulhaziq.my 
  
 # Penghargaan
 
